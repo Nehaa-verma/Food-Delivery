@@ -1,7 +1,7 @@
 //rafce
 
 import React from "react";
-import "./footer.css";
+import "./Footer.css";
 import { assets } from "../../assets/assets";
 
 const Footer = () => {
